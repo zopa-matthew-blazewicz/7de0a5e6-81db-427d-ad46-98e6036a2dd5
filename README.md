@@ -8,7 +8,7 @@ Fraud detection and analysis is a complex domain, so for the purposes of this ex
 | Details used to determine fraud risk | Resulting score | Meaning |
 |---|---|---|
 | email: getrichquick898@example.com<br>first name: Charrlie<br>last name: Zoplin<br>post code: ABC 123 | 95 | A score of 95 indicates a high risk of fraud. |
-| email: charlie.zoplin@example.com<br>first name: Charlie<br>last name: Zoplin<br> post code: ZZ0 P4 | 5 | A score of 95 indicates a low risk of fraud. |
+| email: charlie.zoplin@example.com<br>first name: Charlie<br>last name: Zoplin<br> post code: ZZ0 P4 | 5 | A score of 5 indicates a low risk of fraud. |
 
 So, from a functional perspective a simple enough service. At our scale it also needs to:
 
