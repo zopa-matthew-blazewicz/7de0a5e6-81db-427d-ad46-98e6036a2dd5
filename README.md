@@ -100,9 +100,6 @@ The first task you will be asked to complete is the following:
 
 ### Scenario: Failing readiness check
 
-#### Problem:
-We've run into an issue when trying to deploy our service - the readiness check always returns an error, even when the service seems to be running.
-
 #### Task:
 1. In HealthEndpointIntegrationTest add a missing test for the readiness endpoint.
 2. Fix the bug in the HealthController.
